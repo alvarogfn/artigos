@@ -1,0 +1,13 @@
+{
+  "qtd": 2,
+  "artigos": [
+    {
+      "slug": "react-event-driven-architecture",
+      "path": "./React_Event_Driven_Architecture.md"
+    },
+    {
+      "slug": "react-in-practice",
+      "path": "./React_In_Practice.md"
+    }
+  ]
+}

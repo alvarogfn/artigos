@@ -3,7 +3,7 @@
   "highlightColor": "#ffd700",
   "sidebarPosition": "right",
   "highlights": {
-    "React In Practice.md": [
+    "React_In_Practice.md": [
       {
         "id": "vt3szv6p9",
         "text": "criar um produto",
@@ -11,7 +11,7 @@
         "line": 562,
         "startOffset": 15019,
         "endOffset": 15079,
-        "filePath": "React In Practice.md",
+        "filePath": "React_In_Practice.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "Teste"
