@@ -1,0 +1,77 @@
+{
+  "settingsVersion": "1.14.0",
+  "highlightColor": "#ffd700",
+  "sidebarPosition": "right",
+  "highlights": {
+    "React In Practice.md": [
+      {
+        "id": "vt3szv6p9",
+        "text": "criar um produto",
+        "tags": [],
+        "line": 562,
+        "startOffset": 15019,
+        "endOffset": 15079,
+        "filePath": "React In Practice.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "Teste"
+        ],
+        "createdAt": 1773179702244,
+        "isNativeComment": false,
+        "color": "#ffff00",
+        "type": "html"
+      }
+    ]
+  },
+  "collections": {},
+  "groupingMode": "none",
+  "taskSecondaryGroupingMode": "none",
+  "sortMode": "none",
+  "tabSettings": {},
+  "showFilenames": true,
+  "showTimestamps": true,
+  "showHighlightActions": true,
+  "showToolbar": true,
+  "autoToggleFold": false,
+  "useInlineFootnotes": false,
+  "selectTextOnCommentClick": false,
+  "excludeExcalidraw": true,
+  "excludedFiles": [],
+  "fileFilters": [],
+  "fileFilterMode": "exclude",
+  "dateFormat": "YYYY-MM-DD HH:mm",
+  "minimumCharacterCount": 0,
+  "highlightFontSize": 11,
+  "detailsFontSize": 11,
+  "commentFontSize": 11,
+  "highlightFontWeight": 400,
+  "taskFontWeight": 400,
+  "detectHtmlComments": false,
+  "detectAdjacentNativeComments": true,
+  "customPatterns": [],
+  "customColors": {
+    "yellow": "#ffd700",
+    "red": "#ff6b6b",
+    "teal": "#4ecdc4",
+    "blue": "#45b7d1",
+    "green": "#96ceb4"
+  },
+  "customColorNames": {
+    "yellow": "",
+    "red": "",
+    "teal": "",
+    "blue": "",
+    "green": ""
+  },
+  "showCurrentNoteTab": true,
+  "showAllNotesTab": true,
+  "showCollectionsTab": true,
+  "showTasksTab": false,
+  "showCompletedTasks": true,
+  "showTaskContext": true,
+  "taskDateFormat": "YYYY-MM-DD",
+  "showCurrentNoteTasksSection": true,
+  "showOnlyCurrentNoteTasks": false,
+  "displayModes": [],
+  "currentDisplayModeId": null
+}
